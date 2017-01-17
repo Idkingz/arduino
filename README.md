@@ -1,2 +1,2 @@
-# arduino
+# Arduino
 Projects for World Domination!
